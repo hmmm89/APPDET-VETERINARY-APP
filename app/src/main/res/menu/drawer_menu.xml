@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:textColor="#064E3B" />
+    <item
+        android:id="@+id/nav_services"
+        android:title="Services"
+        android:textColor="#064E3B" />
+    <item
+        android:id="@+id/nav_appointment"
+        android:title="Appointment"
+        android:textColor="#064E3B" />
+    <item
+        android:id="@+id/nav_about_us"
+        android:title="About Us"
+        android:textColor="#064E3B" />
+    <item
+        android:id="@+id/nav_search"
+        android:title="Search"
+        android:textColor="#064E3B" />
+</menu>

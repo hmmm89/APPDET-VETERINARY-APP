@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PAWS App</string>
+    <string name="about_us">About Us</string>
+    <string name="appointment">Appointment</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="services">Services</string>
+    <string name="menu">Menu</string>
+    <string name="todo">TODO</string>
+    <string name="paws_veterinary">PAWS Veterinary</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="menu1">Menu</string>
+    <string name="todo2">TODO</string>
+    <string name="paws_veterinary1">PAWS Veterinary</string>
+    <string name="providing_quality_care_for_your_pets">Providing quality care for your pets</string>
+    <string name="welcome_to_paws_veterinary_clinic">Welcome to Paws Veterinary Clinic</string>
+    <string name="todo4">TODO</string>
+    <string name="browse_our_range_of_veterinary_services">Browse our range of veterinary services</string>
+    <string name="our_services">Our Services</string>
+    <string name="read_information_articles_on_pet_care">Read Information articles on Pet care</string>
+    <string name="healthy_pets_for_a_happy_life">Healthy Pets for a Happy Life</string>
+    <string name="meet_our_experienced_veterinarians">Meet our Experienced Veterinarians!</string>
+    <string name="our_team">Our Team</string>
+    <string name="book_an_appointment">Book an Appointment</string>
+    <string name="select_a_date">Select a date</string>
+    <string name="preferred_date">Preferred Date</string>
+    <string name="submit">Submit</string>
+</resources>
